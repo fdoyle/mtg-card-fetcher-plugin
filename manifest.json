@@ -1,0 +1,22 @@
+{
+    "name": "edh subreddit helper",
+    "description": "show inline images of cards",
+    "version": "1.0",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "background.js"
+    },
+    "content_scripts": [
+        {
+            "js": [
+                "content.js"
+            ],
+            "css": [
+                "styles.css"
+            ],
+            "matches": [
+                "https://www.reddit.com/r/EDH/*"
+            ]
+        }
+    ]
+}
