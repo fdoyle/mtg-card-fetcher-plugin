@@ -1,8 +1,4 @@
-body {
-    background: green !important;
-  }
-
-
 .cardimage {
     width: 400px;
+    border-radius: 25px;
 }

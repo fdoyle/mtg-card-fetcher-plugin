@@ -3,9 +3,6 @@
     "description": "show inline images of cards",
     "version": "1.0",
     "manifest_version": 3,
-    "background": {
-        "service_worker": "background.js"
-    },
     "content_scripts": [
         {
             "js": [
