@@ -18,3 +18,6 @@ load it as an unpacked chrome plugin
 https://developer.chrome.com/docs/extensions/mv3/getstarted/#unpacked
 
 I probably won't ever put this on the store. 
+
+
+license: MIT
