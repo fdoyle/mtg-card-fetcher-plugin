@@ -9,7 +9,9 @@ into
 Installation
 
 Download the project
+
 <img width="402" alt="image" src="https://user-images.githubusercontent.com/2229837/183344139-528d2840-18a2-4f23-b9f4-2af4a981a9f2.png">
+
 unzip it
 
 load it as an unpacked chrome plugin 
